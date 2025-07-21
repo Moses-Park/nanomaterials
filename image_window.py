@@ -35,7 +35,7 @@ def random_colors(n_color, add_a=False):
 if __name__ == "__main__":
     fileDir = os.path.dirname(os.path.realpath('_file_'))
     print(fileDir)
-    filename = "005edge-1.TIFF"
+    filename = "005center-1.TIFF"
     dir_name = ''
     file_dir = os.path.join(os.getcwd() + dir_name, filename)
     print(file_dir)
